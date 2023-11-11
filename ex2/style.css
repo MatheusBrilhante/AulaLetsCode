@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+html{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    width: 100vw;
+    color: black;
+    background-color: #c2c2c2;
+    text-align: center;
+    margin: auto;
+}
+header h1{
+    text-decoration: underline;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+
+}
+main{
+    margin: auto;
+    display: flex;
+}
+.text{
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+article{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+
+}
+article h1 {
+    font-size: 2rem;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: blueviolet;
+}
+footer{
+    height: 50px;
+    background-color: #c2c2c2;
+    color: black;
+    margin-top: 32px;
+    width: 100vw;
+}
+footer h1{
+    text-align: center;
+    font-size: 2.5rem;
+    text-decoration: underline;
+}
+
+.background{
+    width: 100%;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+    background-image:url(./cach1.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box{
+    height: 10rem;
+    width: 20rem;
+    margin: 1.5rem;
+    padding: 1.5rem;
+    background-color: blue;
+    color: rgb(252, 252, 252);
+    border: 10px solid red;
+    display: inline-block;
+    border-radius: 0.4rem;
+    text-align: center;
+}
+
