@@ -81,7 +81,7 @@ footer h1{
     margin: 1.5rem;
     padding: 1.5rem;
     background-color: blue;
-    color: rgb(252, 252, 252);
+    color: hsl(0, 0%, 99%);
     border: 10px solid red;
     display: inline-block;
     border-radius: 0.4rem;
