@@ -48,7 +48,7 @@ a:visited{
     color: blue;
 }
 a:hover{
-    color: blueviolet;
+    color: hsl(271, 77%, 53%))76%, 53%)
 }
 footer{
     height: 50px;
